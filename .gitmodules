@@ -1,0 +1,3 @@
+[submodule "sw-adversaries"]
+	path = sw-adversaries
+	url = https://github.com/stoogoff/sw-adversaries.git
